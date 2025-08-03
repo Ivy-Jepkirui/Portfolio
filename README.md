@@ -26,7 +26,7 @@ This website serves as a digital introduction to who I am professionally. It inc
 ## 🚀 Live Preview
 
 You can view the website live here:  
-👉 [https://Ivy-Jepkirui.github.io/Portfolio](https://Ivy-Jepkirui.github.io/Portfolio)
+👉 [https://portfolio-eight-delta-0crvjjd8dr.vercel.app/](https://portfolio-eight-delta-0crvjjd8dr.vercel.app/)
 
 ## 🛠️ How to Use
 
